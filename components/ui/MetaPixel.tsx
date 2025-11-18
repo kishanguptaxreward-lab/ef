@@ -3,9 +3,8 @@ import { useEffect } from 'react';
 
 export default function MetaPixel() {
   useEffect(() => {
-    // Facebook Pixel or Meta Pixel can be added here
-    console.log("MetaPixel loaded");
+    1335374968250276
+    console.log('MetaPixel loaded');
   }, []);
-
   return null;
 }
